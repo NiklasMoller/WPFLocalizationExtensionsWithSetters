@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mollern\\Documents\\WPF Local Development\\LocalizationWithSetters\\LocalizationWithSetters\\LocalizationWithSetters\\LocalizationWithSetters.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mollern\\Documents\\WPF Local Development\\LocalizationWithSetters\\LocalizationWithSetters\\LocalizationWithSetters\\LocalizationWithSetters.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mollern\\Documents\\WPF Local Development\\LocalizationWithSetters\\LocalizationWithSetters\\LocalizationWithSetters\\LocalizationWithSetters.csproj",
+        "projectName": "LocalizationWithSetters",
+        "projectPath": "C:\\Users\\mollern\\Documents\\WPF Local Development\\LocalizationWithSetters\\LocalizationWithSetters\\LocalizationWithSetters\\LocalizationWithSetters.csproj",
+        "packagesPath": "C:\\Users\\mollern\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mollern\\Documents\\WPF Local Development\\LocalizationWithSetters\\LocalizationWithSetters\\LocalizationWithSetters\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mollern\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "WPFLocalizeExtension": {
+              "target": "Package",
+              "version": "[3.9.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
